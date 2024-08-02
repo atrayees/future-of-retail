@@ -6,5 +6,5 @@
 
 - no queues (offline shopping)
 - easy search (offline shopping)
-- try-ons (offline shopping)
-- instant purchases (offline shopping)
+- try-ons (online shopping)
+- instant purchases (onfline shopping)
